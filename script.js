@@ -88,16 +88,3 @@ function limparFormulario() {
     cadastro.cpf.value = '';
     cadastro.rg.value = '';
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
