@@ -1,5 +1,3 @@
-alert('Esta página armazena dados sensíveis!');
-
 const cadastro = document.querySelector('header form');
 const tcorpo = document.querySelector('main tbody');
 let listaArmazenada = JSON.parse(window.localStorage.getItem('contatos'));
